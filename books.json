@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "El hobbit",
+        "authorid": "1"
+    },
+    {
+        "id": "2",
+        "name": "El Señor de los Anillos",
+        "authorid": "1"
+    },
+    {
+        "id": "3",
+        "name": "El Silmarillion",
+        "authorid": "1"
+    },
+    {
+        "id": "4",
+        "name": "Ficciones",
+        "authorid": "2"
+    },
+    {
+        "id": "5",
+        "name": "La biblioteca de Babel",
+        "authorid": "2"
+    },
+    {
+        "id": "6",
+        "name": "Cien años de soledad",
+        "authorid": "3"
+    },
+    {
+        "id": "7",
+        "name": "El amor en los tiempos del cólera",
+        "authorid": "3"
+    },
+    {
+        "id": "8",
+        "name": "Manolito Gafotas",
+        "authorid": "4"
+    },
+    {
+        "id": "9",
+        "name": "Rayuela",
+        "authorid": "5"
+    }
+]

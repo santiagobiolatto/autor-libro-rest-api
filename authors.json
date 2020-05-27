@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "John Ronald Reuel",
+        "lastname": "Tolkien"
+    },
+
+    {
+        "id": "2",
+        "name": "Jorge Luis",
+        "lastname": "Borges"
+    },
+
+    {
+        "id": "3",
+        "name": "Gabriel García",
+        "lastname": "Márquez"
+    },
+
+    {
+        "id": "4",
+        "name": "Elvira",
+        "lastname": "Lindo"
+    },
+
+    {
+        "id": "5",
+        "name": "Julio ",
+        "lastname": "Cortázar"
+    }
+
+]
