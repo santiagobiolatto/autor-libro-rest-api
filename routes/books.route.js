@@ -11,7 +11,7 @@ router.get('/books', (req, res)=>{
     books.forEach((book) =>{
         authors.forEach((author)=>{
             if(book.authorid == author.id){
-                book.authorid = author.name+" "+author.lastname;
+                book.authorid = author;
             }
         })
     });
